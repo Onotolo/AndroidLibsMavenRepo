@@ -1,7 +1,9 @@
 # AndroidLibsMavenRepo
 
-[Animated Fragmet](https://github.com/Onotolo/AnimatedFragment)
+[AnimatedFragmet](https://github.com/Onotolo/AnimatedFragment)
 
-[Selector View](https://github.com/Onotolo/SelectorView)
+[SelectorView](https://github.com/Onotolo/SelectorView)
 
-[Settings View Builder](https://github.com/Onotolo/SettingsViewBuilder)
+[SettingViewBuilder](https://github.com/Onotolo/SettingViewBuilder)
+
+[AndroidSettings](https://github.com/Onotolo/AndroidSettings)
